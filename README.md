@@ -24,3 +24,4 @@ That's because more and more mod authors are switching to Modrinth, a newer Mod 
 5. ![](<.gitbook/assets/tempsnip (4).png>)
 6. ![](<.gitbook/assets/tempsnip (5).png>)
 7. ![](<.gitbook/assets/tempsnip (6).png>)
+8. ![](<.gitbook/assets/tempsnip (8).png>)
