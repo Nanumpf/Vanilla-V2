@@ -4,7 +4,7 @@ So you may be wondering why this Modpack is not using Curseforge.
 
 That's because more and more mod authors are switching to Modrinth, a newer Mod hosting platform.
 
-## Step 1 - Download the Modpack [here](https://files.catbox.moe/ngwo2e.mrpack)
+## Step 1 - Download the Modpack [here](https://files.catbox.moe/cr13ow.mrpack)
 
 ## Step 1 - Installing Java
 
